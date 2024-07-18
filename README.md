@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou o Ramon, trabalho como técnico em manutenção de equipamentos de informática na FDCI.<br><br>👀 Tenho interesse nas áreas de desenvolvimento de software, sistemas de informação e programação em Java. Também gosto muito de robótica.<br><br>🌱 Atualmente estou cursando Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas). Sou formado em Análise e Desenvolvimento de Sistemas e possuo um curso de Programador Web pelo SENAI.</p>
+<p align="left">👋 Olá, eu sou o Ramon, trabalho como técnico em manutenção de equipamentos de informática na FDCI.<br><br>👀 Tenho interesse nas áreas de desenvolvimento de software, engenharia da computação e programação em Java. Também gosto muito de robótica.<br><br>🌱 Atualmente estou cursando Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas). Sou formado em Análise e Desenvolvimento de Sistemas e possuo um curso de Programador Web pelo SENAI.</p>
 
 ###
 
