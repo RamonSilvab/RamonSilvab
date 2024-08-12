@@ -1,12 +1,13 @@
 <h2 align="left">Um pouco sobre min!</h2>
 
 ###
+<p align="left">👋 Olá, eu sou o Ramon, trabalho como Técnico em Manutenção de Equipamentos de Informática na FDCI.
 
-<p align="left">👋 Olá, eu sou o Ramon, trabalho como técnico em manutenção de equipamentos de informática na FDCI.
+👀 Tenho interesse em desenvolvimento de software e hardware.
 
-👀 Tenho interesse nas áreas de desenvolvimento de software, engenharia da computação e programação em Java. Também gosto muito de robótica.
+🌱 Atualmente, estou cursando Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas) e sou formado em Análise e Desenvolvimento de Sistemas. Também possuo alguns cursos livres na área de programação.</p>
 
-🌱 Atualmente estou cursando Desenvolvedor Full Stack Java na EBAC (Escola Britânica de Artes Criativas). Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Engenharia da Computação.</p>
+
 
 ###
 
